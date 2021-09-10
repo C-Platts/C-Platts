@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, my name is Connor Platts and I am a Trainee Java SDET Consultant at Sparta Global.
+My name is Connor Platts and I am a Trainee Java SDET Consultant at Sparta Global.
 
 The repos here are most of the projects I have worked during my time training at Sparta Global.
 
