@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, my name is Connor Platts and I am a Trainee Java SDET Consultant at Sparta Global.
+
+The repos here are most of the projects I have worked during my time training at Sparta Global.
+
+These are the largest projects I have contributed to:
+
+SpartaSimulation: https://github.com/joshuamc360/SpartaSimulation
+
+Employee Project: https://github.com/C-Platts/EmployeeProject
+
+Sort Manager: https://github.com/C-Platts/SortingManager
+
