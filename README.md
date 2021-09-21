@@ -27,3 +27,5 @@ Employee Project: https://github.com/C-Platts/EmployeeProject
 
 Sort Manager: https://github.com/C-Platts/SortingManager
 
+Weather API Testing Framework: https://github.com/kmcghie1/Weather-API-Testing-Project
+
